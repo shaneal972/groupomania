@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/icon-above-font300.png">
-    <Home msg="Welcome to Your Vue.js App"/>
+    <Home msg="Bienvenue chez Groupomania"/>
   </div>
 </template>
 
